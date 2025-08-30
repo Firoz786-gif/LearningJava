@@ -1,7 +1,7 @@
 package ex_001_Java_Basic;
 
 public class Lab004_Prb3 {
-    int a = 1;
+    int a = 2;
     int b = 2;
     int c = a+b;
 
